@@ -45,7 +45,8 @@ reproducible research pipelines for analysing and modelling data of this scale:
    indicate that they do.
 
 In this presentation, we will demonstrate the workflow that we have been
-establishing for building
+establishing at the [Computer-Oriented Geoscience Lab](https://www.compgeolab.org/) 
+for building
 "[repro-packs](https://lorenabarba.com/blog/how-repro-packs-can-save-your-future-self/)"
 for our papers and projects.
 We use a combination of virtual environments, data download and caching tools,
