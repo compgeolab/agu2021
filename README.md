@@ -1,10 +1,13 @@
 # Python-based workflows for small-to-medium sized data: what works, what doesn't, and what can be improved
 
 Leonardo Uieda<sup>1</sup>,
+Santiago Soler<sup>2,3</sup>
 
-> <sup>1</sup>University of Liverpool, UK
+> <sup>1</sup>Department of Earth, Ocean and Ecological Sciences, School of Environmental Sciences, University of Liverpool, UK
 > <br>
->
+> <sup>2</sup> CONICET, Argentina
+> <br>
+> <sup>3</sup> Instituto Geofísico Sismológico Volponi, UNSJ, Argentina
 
 This is an invited talk for the first part of this session, with 10 minute
 talks featuring "demonstrations of open source software and technology tools,
