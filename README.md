@@ -10,15 +10,14 @@ Santiago Soler<sup>2,3</sup>
 > <sup>3</sup> Instituto Geofísico Sismológico Volponi, UNSJ, Argentina
 
 This is an invited talk for the first part of this session, with 10 minute
-talks featuring "demonstrations of open source software and technology tools,
-and using open science data platforms" followed by a panel discussion.
+talks followed by a panel discussion.
 
 | | Information |
 |---:|:----|
-| doi | [TBD](https://doi.org/TBD) |
-| Abstract | ADD LINK AND ID |
-| Session | [Open Science in Action: Data, Software, Access, Science](https://agu.confex.com/agu/fm21/prelim.cgi/Session/122142) |
-| When | TBD |
+| Abstract | [U51B-03](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/907547) |
+| Session | [U51B - Open Science in Action](https://agu.confex.com/agu/fm21/meetingapp.cgi/Session/122142) |
+| When | Friday 17 December 2021 14:00 - 15:00 UTC |
+| Slides | [compgeolab.org/agu2021](https://www.compgeolab.org/agu2021) |
 
 ## Abstract
 
@@ -48,7 +47,7 @@ reproducible research pipelines for analysing and modelling data of this scale:
    indicate that they do.
 
 In this presentation, we will demonstrate the workflow that we have been
-establishing at the [Computer-Oriented Geoscience Lab](https://www.compgeolab.org/) 
+establishing at the [Computer-Oriented Geoscience Lab](https://www.compgeolab.org/)
 for building
 "[repro-packs](https://lorenabarba.com/blog/how-repro-packs-can-save-your-future-self/)"
 for our papers and projects.
