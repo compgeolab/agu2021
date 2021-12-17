@@ -82,6 +82,22 @@ Moderate compute and data
 
 ---
 
+
+Example: 3D density distribution from gravity disturbances
+
+<video style="width: 50%" muted data-autoplay>
+<source data-src="assets/planting-inversion.mp4" type="video/mp4"/>
+</video>
+
+<div class="r-stretch bottom-right">
+
+[Uieda & Barbosa (2012)](https://doi.org/10.1190/geo2011-0388.1)
+
+</div>
+
+
+---
+
 <!-- .slide: class="slide-transition" data-background-color="#212529" -->
 
 <div class="centered">
