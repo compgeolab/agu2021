@@ -77,12 +77,6 @@ and build <b>open-source software</b>
 Moderate compute and data
 </p>
 
-<div class="huge">
-
-[compgeolab.org](https://www.compgeolab.org)
-
-</div>
-
 </div>
 </div>
 
