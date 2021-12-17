@@ -88,7 +88,7 @@ Moderate compute and data
 
 ---
 
-<!-- .slide: class="slide-transition" data-background-color="#0d6efd" -->
+<!-- .slide: class="slide-transition" data-background-color="#212529" -->
 
 <div class="centered">
 <div>
